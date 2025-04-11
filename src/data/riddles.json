@@ -1,0 +1,966 @@
+{
+  "riddles": [
+          {
+            "id": 1,
+            "question": "For some I go fast for others I'm slow. To most people, I'm an obsession relying on me is a well practiced lesson.  What am I?",
+            "answer": "Time",
+            "hint": "I am always passing, but you can't hold me. Everyone uses me, but no one can save me."
+          },
+          {
+            "id": 2,
+            "question": "I'm as big as an elephant, but lighter than a feather. What am I?",
+            "answer": "The Wind",
+            "hint": "I have no substance, but I can be powerful. I can be gentle or fierce, but you can't hold me."
+          },
+          {
+            "id": 3,
+            "question": "A blue house is made of blue bricks. A yellow house is made of yellow bricks. A red house is made of red bricks. An orange house is made of orange bricks. What would a green house be made of?",
+            "answer": "Glass",
+            "hint": "Think about what a greenhouse is made of, not just its color."
+          },
+          {
+            "id": 4,
+            "question": "Where does the 13th man come from ?",
+            "answer": "If you think you know the answer please tell us in the comment section below.  Good Luck",
+            "hint": "This isn't a math problem. Consider the phrase itself."
+          },
+          {
+            "id": 5,
+            "question": "Which triangle has a bigger area:  1. A triangle with sides measuring 300, 400, and 500. 2. A triangle with sides measuring 300, 400, and 700.",
+            "answer": "1. A triangle with sides measuring 300, 400, and 500. The other triangle cannot exist!",
+            "hint": "Remember the rules of triangles; can any side length combination work?"
+          },
+          {
+            "id": 6,
+            "question": "What has roots as nobody sees.  Is taller than trees.  Up, up it goes.  And yet never grows?",
+            "answer": "It's Majestic  A Mountain",
+            "hint": "I am formed over time, but I don't grow like a living thing."
+          },
+          {
+            "id": 7,
+            "question": "A man was going to buy a $5000 car, but he didn't pay a penny for the car, how is this possible?",
+            "answer": "It's not free He didn't pay a penny, he payed $5000 for the car!",
+            "hint": "Focus on the wording."
+          },
+          {
+            "id": 8,
+            "question": "There are four girls, and four apples in a basket. Every girl takes an apple, Yet one apple remains in the basket. How is this possible?",
+            "answer": "One girl took the basket. She took the last apple while it was in the basket",
+            "hint": "Someone took more than just an apple."
+          },
+          {
+            "id": 9,
+            "question": "What is once in a minute, twice in a moment, and never in a thousand years?",
+            "answer": "The letter M",
+            "hint": "This is a letter-based riddle. Look closely at the words 'minute,' 'moment,' and 'thousand years.'"
+          },
+          {
+            "id": 10,
+            "question": "Four men were in a boat on the lake. The boat turns over, and all four men sink to the bottom of the lake, yet not a single man got wet! Why?",
+            "answer": "Because they were all married and not single",
+            "hint": "Consider the men's marital status."
+          },
+          {
+            "id": 11,
+            "question": "In the NBA, how many men are on the basketball court for each team?",
+            "answer": "Five....I'll bet you guessed 10",
+            "hint": "Focus on each team."
+          },
+          {
+            "id": 12,
+            "question": "There are 20 people in an empty, square room. Each person has full sight of the entire room and everyone in it. If you are not allowed to move in any way (other than your eyes). Where can you place an apple so that all but one person can see it?",
+            "answer": "Place the apple on one person's head",
+            "hint": "Think about where you could place the apple."
+          },
+          {
+            "id": 13,
+            "question": "Romeo and Juliet are found dead on the floor in a bedroom. When they were discovered, there were pieces of glass and some water on the floor. The only furniture in the room is a shelf and a bed. The house in is a remote location, away from everything except for the nearby railway track. What caused the death of Romeo and Juliet?",
+            "answer": "Romeo and Juliet are fish. The rumble of the train knocked the tank off the shelf",
+            "hint": "This is not about people. What kind of 'Romeo and Juliet' might live in a tank?"
+          },
+          {
+            "id": 14,
+            "question": "A boy was at a carnival and went to a booth where a man said to the boy, \u201cIf I write your exact weight on this piece of paper then you have to give me $50, but if I cannot, I will pay you $50.\u201d The boy looked around and saw no scale so he agrees, thinking no matter what the carny writes he'll just say he weighs more or less.  In the end the boy ended up paying the man $50. How did the man win the bet?",
+            "answer": "The man did exactly as he said he would and wrote \u201cyour exact weight\u201don the paper",
+            "hint": "The man wrote the words \"your exact weight\" rather than a number."
+          },
+          {
+            "id": 15,
+            "question": "What is it that when you take away the whole, you still have some left over?",
+            "answer": "Wholesome",
+            "hint": "Think of a word, not an object. Take away \"whole\" from \"wholesome\"."
+          },
+          {
+            "id": 16,
+            "question": "Can you name three consecutive days without using the words Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday?",
+            "answer": "Yesterday, Today, and Tomorrow",
+            "hint": "The days are named, but there are other ways to refer to them."
+          },
+          {
+            "id": 17,
+            "question": "How many times can you subtract the number 5 from 25?",
+            "answer": "Only one time. After that, you would be subtracting from 20",
+            "hint": "What number do you subtract from after the first time?"
+          },
+          {
+            "id": 18,
+            "question": "Read my riddle, I pray. What God never sees, what the king seldom sees, and what we see every day. What is it?",
+            "answer": "An equal",
+            "hint": "Consider social hierarchy and power dynamics."
+          },
+          {
+            "id": 19,
+            "question": "What can be heard and caught but never seen?",
+            "answer": "A Remark",
+            "hint": "It's something people say."
+          },
+          {
+            "id": 20,
+            "question": "Many things can create one, it can be of any shape or size, it is created for various reasons, and it can shrink or grow with time. What is it?",
+            "answer": "A Hole",
+            "hint": "It's an absence of something."
+          },
+          {
+            "id": 21,
+            "question": "Polly Perkins was after a talking parrot, so she went to the local pet shop in the hope of securing such a find. She was in luck. The shop assistant assured her that the parrot would learn and repeat any word or phrase it heard. Polly was delighted. However, a week later, the parrot still hadn't spoken a word. Polly returned to the shop to complain, however, it appeared that the assistant was accurate in what he had said, and refused a refund. Why didn't the parrot talk?",
+            "answer": "The parrot was deaf and as such couldn't repeat a single word it had heard!",
+            "hint": "The parrot couldn't repeat anything."
+          },
+          {
+            "id": 22,
+            "question": "What two things can you never eat for breakfast?",
+            "answer": "Lunch and dinner",
+            "hint": "Think about the time of day."
+          },
+          {
+            "id": 23,
+            "question": "What can run but never walks, has a mouth but never talks, has a head but never weeps, has a bed but never sleeps?",
+            "answer": "Water A river",
+            "hint": "It's a body of water that travels."
+          },
+          {
+            "id": 24,
+            "question": "What word can be written forward, backward or upside down, and can still be read from left to right?",
+            "answer": "NOON",
+            "hint": "It's a palindrome that also looks the same upside down."
+          },
+          {
+            "id": 25,
+            "question": "They have not flesh, nor feathers, nor scales, nor bone. Yet they have fingers and thumbs of their own. What are they?",
+            "answer": "Gloves",
+            "hint": "You wear them on your hands in cold weather."
+          },
+          {
+            "id": 26,
+            "question": "I am large as a castle, yet lighter than air. 100 men and their horses cannot move me. What am I?",
+            "answer": "The castle's shadow",
+            "hint": "It's an outline cast by the castle."
+          },
+          {
+            "id": 27,
+            "question": "If three cats catch three mice in three minutes, how many cats would be needed to catch 100 mice in 100 minutes?",
+            "answer": "The same three cats would do. Since these three cats are averaging one mouse per minute, given 100 minutes, the cats could catch 100 mice",
+            "hint": "Focus on the rate at which the cats catch mice."
+          },
+          {
+            "id": 28,
+            "question": "A woman was horrified to find a fly in her tea. The waiter took her cup and went into the kitchen and returned with a fresh cup of tea. She shouted, \u201cYou brought me the same tea!\u201dHow did she know?",
+            "answer": "Sugar She had already put sugar in it and when she tasted the new tea it was already sweet",
+            "hint": "She had already added something to her original cup."
+          },
+          {
+            "id": 29,
+            "question": "This is as light as a feather, Yet no man can hold it for long. What is it?",
+            "answer": "Your Breath",
+            "hint": "It's essential for life, but you have to release it."
+          },
+          {
+            "id": 30,
+            "question": "What is put on a table, cut, but never eaten?",
+            "answer": "A deck of cards",
+            "hint": "It's used for games."
+          },
+          {
+            "id": 31,
+            "question": "A train was on its way to Florida and derailed. Where would they bury the survivors?",
+            "answer": "They wouldn't need to, the survivors are still alive!",
+            "hint": "Consider the definition of \"survivors\"."
+          },
+          {
+            "id": 32,
+            "question": "While on my way to St. Ives, I saw a man with 7 wives. Each wife had 7 sacks. Each sack had 7 cats. Each cat had 7 kittens. Kitten, cats, sacks, wives, How many were going to St. Ives?",
+            "answer": "Just one, me",
+            "hint": "Focus on who is actually traveling to St. Ives."
+          },
+          {
+            "id": 33,
+            "question": "This old one runs forever, but never moves at all. He has not lungs nor throat, but still a mighty roaring call. What is it?",
+            "answer": "A Waterfall",
+            "hint": "It's a natural wonder that always flows but stays in one place."
+          },
+          {
+            "id": 34,
+            "question": "Dave and Brad, two popular politicians, met at a club to discuss the overthrow of their party leader. They each ordered a vodka on the rocks. Brad downed his and ordered another. He then drank his second in a gulp and decided to wait before he ordered a third. Meanwhile, Dave, who was sipping his drink, suddenly fell forward dead. Both men were setup for an assassination. Why did Dave die and Brad live?",
+            "answer": "Both Dave and Brad were given drinks with poisoned ice cubes. Brad drank his drinks so quickly that the ice didn't have time to melt and release the poison",
+            "hint": "Consider how the poison was delivered and how quickly each man drank."
+          },
+          {
+            "id": 35,
+            "question": "Whoever makes it, tells it not. Whoever takes it, knows it not. And whoever knows it wants it not.",
+            "answer": "Counterfeit money",
+            "hint": "It's something deceptive and unwanted by those who are aware of its true nature."
+          },
+          {
+            "id": 36,
+            "question": "Samuel was out for a walk when it started to rain. He did not have an umbrella and he wasn't wearing a hat. His clothes were soaked, yet not a single hair on his head got wet. How could this happen?",
+            "answer": "This man is bald!",
+            "hint": "Consider the absence of something rather than protection from the rain."
+          },
+          {
+            "id": 37,
+            "question": "I come in darkness, but fill the mind with light. I bring enlightenment to some, while gripping others in the hand of fear. With me it can be a journey of inexplicable joy and sorrow. What I will show you will often be unreachable. Journey with me and what you see may haunt you. Journey with me and you may never want to return home. Journey with me and you will never know when it will end. What am I?",
+            "answer": "Your dreams",
+            "hint": "These occur while you sleep and can be vivid and emotional experiences."
+          },
+          {
+            "id": 38,
+            "question": "The answer I give is yes, but what I mean is no. What was the question?",
+            "answer": "Do you mind?",
+            "hint": "The question is about politeness and permission."
+          },
+          {
+            "id": 39,
+            "question": "What can be swallowed, but can also swallow you?",
+            "answer": "Pride",
+            "hint": "It's an emotion that can consume a person."
+          },
+          {
+            "id": 40,
+            "question": "What can go up a chimney down, but cannot go down a chimney up?",
+            "answer": "An umbrella",
+            "hint": "Consider its shape and how it's used."
+          },
+          {
+            "id": 41,
+            "question": "What never gets any wetter, no matter how much it rains?",
+            "answer": "The sea",
+            "hint": "It's a large body of water."
+          },
+          {
+            "id": 42,
+            "question": "No sooner spoken than broken. What is it?",
+            "answer": "Silence",
+            "hint": "It disappears as soon as you make a sound."
+          },
+          {
+            "id": 43,
+            "question": "If a wheel has 64 spokes, how many spaces are there between the spokes?",
+            "answer": "64. The space that comes after the 64th spoke, would be just before the first spoke",
+            "hint": "Relate the spaces to the spokes themselves."
+          },
+          {
+            "id": 44,
+            "question": "A man and a woman were driving in their car when it broke down. The man decided to go for help at a gas station a few miles back. He made sure nobody was in the car, rolled all the windows up, and locked all of the sedan's doors. He went off, but when he came back, his wife was dead, and there was a stranger in the car. No physical damage was done to the car, so how did the stranger get in?",
+            "answer": "The stranger was a baby and the woman died in childbirth",
+            "hint": "The stranger entered in a way you might not expect."
+          },
+          {
+            "id": 45,
+            "question": "When can you add two to eleven and get one as the correct answer?",
+            "answer": "Look at a clock When you add two hours to eleven o'clock, you get one o'clock",
+            "hint": "Think about units of time."
+          },
+          {
+            "id": 46,
+            "question": "You can spin, wheel and twist, but this thing can turn without moving. What is it?",
+            "answer": "Got milk?",
+            "hint": "Think about a common phrase."
+          },
+          {
+            "id": 47,
+            "question": "When they are caught, they are thrown away. When they escape, you itch all day. What are they?",
+            "answer": "Fleas",
+            "hint": "They are tiny pests."
+          },
+          {
+            "id": 48,
+            "question": "You hear it speak, for it has a hard tongue. But it cannot breathe, for it has not a lung. What is it?",
+            "answer": "A Bell",
+            "hint": "It makes a sound but is not alive."
+          },
+          {
+            "id": 49,
+            "question": "What is it that is deaf, dumb and blind and always tells the truth?",
+            "answer": "A Mirror",
+            "hint": "It reflects reality without any alteration."
+          },
+          {
+            "id": 50,
+            "question": "Brad stared through the dirty soot-smeared window on the 22nd floor of the office tower. Overcome with depression he slid the window open and jumped through it. It was a sheer drop outside the building to the ground. Miraculously after he landed he was completely unhurt. Since there was nothing to cushion his fall or slow his descent, how could he have survived the fall?",
+            "answer": "He's outside the window Brad was so sick and tired of window washing, he opened the window and jumped inside",
+            "hint": "Consider the direction of his jump."
+          },
+          {
+            "id": 51,
+            "question": "What question can you never answer?",
+            "answer": "\u201cWhat's it like to be dead?\u201c",
+            "hint": "It's a question no one living can truthfully respond to."
+          },
+          {
+            "id": 52,
+            "question": "When John was six years old he hammered a nail into his favorite tree to mark his height. Ten years later at age sixteen, John returned to see how much higher the nail was. If the tree grew by five centimeters each year, how much higher would the nail be?",
+            "answer": "The nail would be at the same height since trees grow at their tops",
+            "hint": "Think about where trees grow from."
+          },
+          {
+            "id": 53,
+            "question": "What is the easiest way to throw a ball, and have it stop, and completely reverse direction after traveling a short distance?",
+            "answer": "Toss it in the air",
+            "hint": "Gravity plays a key role in the ball's movement."
+          },
+          {
+            "id": 54,
+            "question": "Daniel, my son, is exactly one fifth of my age. In 21 years time, I will be exactly twice his age. My wife is exactly seven times older than my daughter, Jessica. In 8 years time, my wife will be three times older then Jessica. How old are Daniel and Jessica now?",
+            "answer": "Daniel is 7 years old and Jessica is 4 years old",
+            "hint": "This is a math problem involving setting up equations."
+          },
+          {
+            "id": 55,
+            "question": "Inside a burning house, this thing is best to make. And best to make it quickly, before the fire's too much to take!",
+            "answer": "Haste!",
+            "hint": "This is a play on words related to speed."
+          },
+          {
+            "id": 56,
+            "question": "What gets whiter the dirtier that it gets?",
+            "answer": "A chalkboard",
+            "hint": "Think about how it's used and what happens when it's covered."
+          },
+          {
+            "id": 57,
+            "question": "How high would you have to count before you would use the letter A in the English language spelling of a whole number.",
+            "answer": "One thousand",
+            "hint": "Think about the spelling of numbers."
+          },
+          {
+            "id": 58,
+            "question": "Which word in the English language becomes shorter when it is lengthened?",
+            "answer": "Short",
+            "hint": "Think about adding letters to the word."
+          },
+          {
+            "id": 59,
+            "question": "He has married many women, but has never been married. Who is he?",
+            "answer": "A preacher",
+            "hint": "Consider the role of someone who performs marriages."
+          },
+          {
+            "id": 60,
+            "question": "A man goes out drinking every night, returning to his home in the wee hours of every morning. No matter how much he drinks, he never gets a hangover. This drink is very well known, but is rarely consumed, served warm and taken straight from its source. The man is a sucker for a free drink, especially since he can't live without it. What is his favorite drink?",
+            "answer": "Blood, he's a vampire!",
+            "hint": "This mythical creature drinks blood and avoids sunlight."
+          },
+          {
+            "id": 61,
+            "question": "A black dog stands in the middle of an intersecton in a town painted black. None of the street lights are working due to a power failure caused by a storm. A car with two broken headlights drives towards the dog but turns in time to avoid hitting him. How could the driver have seen the dog in time?",
+            "answer": "What time is it Who said this happened during the night?",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 62,
+            "question": "We are little creatures; all of us have different features. One of us in glass is set; one of us you'll find in jet. Another you may see in tin, and the fourth is boxed within . If the fifth you should pursue, it can never fly from you. What are we?",
+            "answer": "We are vowels",
+            "hint": "These are found in every word and are part of the alphabet."
+          },
+          {
+            "id": 63,
+            "question": "When they are caught, they are thrown away. When they escape, you itch all day. What are they?",
+            "answer": "Fleas",
+            "hint": "They are tiny pests."
+          },
+          {
+            "id": 64,
+            "question": "You are in a room that is completely bricked in on all four sides, including the ceiling and floor. You have nothing but a mirror and a wooden table in the room with you. How do you get out?",
+            "answer": "You look in the mirror you see what you saw, you take the saw and you cut the table in half, two halves make a whole, and you climb out the hole",
+            "hint": "It reflects everything but never speaks."
+          },
+          {
+            "id": 65,
+            "question": "I give you a group of three. One is sitting down, and will never get up. The second eats as much as is given to him, yet is always hungry. The third goes away and never returns.",
+            "answer": "Stove, fire, and smoke",
+            "hint": "It\u2019s warm, dangerous, and needs fuel."
+          },
+          {
+            "id": 66,
+            "question": "What is red and blue, and purple and green? No one can reach it, not even the queen?",
+            "answer": "A Rainbow",
+            "hint": "It appears in the sky after rain and is made of colors."
+          },
+          {
+            "id": 67,
+            "question": "A man is lying drowned in a dead forest, far from water. How did this happen?",
+            "answer": "A firefighting plane filled its tanks with water from a lake, sucking a scuba-diver in (Is this an urban legend, or did I see this on the news?). He drown while the plane was in flight and was dumped onto a burning forest with the water",
+            "hint": "It\u2019s warm, dangerous, and needs fuel."
+          },
+          {
+            "id": 68,
+            "question": "A black dog is sleeping in the middle of a black road that has no streetlights and there is no moon. A car coming down the road with its lights off steers around the dog. How did the driver know the dog was there?",
+            "answer": "It was daytime",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 69,
+            "question": "Which is correct to say, \u201cThe yolk of the egg are white,\u201dor \u201cThe yolk of the egg is white?\u201c",
+            "answer": "Neither, because egg yolks are yellow",
+            "hint": "It can be scrambled, boiled, or hatched."
+          },
+          {
+            "id": 70,
+            "question": "There is an ancient invention still used in some parts of the world today that allows people to see through walls. What is it?",
+            "answer": "A window",
+            "hint": "It can't be seen but can be felt, and it can move objects."
+          },
+          {
+            "id": 71,
+            "question": "A beggar's brother died, but the man who died had no brother.  How could this be?",
+            "answer": "The beggar was a woman",
+            "hint": "It can be scrambled, boiled, or hatched."
+          },
+          {
+            "id": 72,
+            "question": "What is it the more you take, the more you leave behind?",
+            "answer": "Your Feet  Footsteps",
+            "hint": "These are left behind you as you walk."
+          },
+          {
+            "id": 73,
+            "question": "You have the misfortune to own an unreliable clock. This one loses exactly 24 minutes every hour. It is now showing 3:00am and you know that is was correct at midnight, when you set it. The clock stopped 1 hour ago, what is the correct time now?",
+            "answer": "6:00am: since the clock is losing 24 minutes every hour, for every real hour that has passed, the clock will only show 36 minutes. Since the clock shows 3:00am, we know that 180 clock minutes have passed. This therefore equals 300 real minutes and hence 5 hours. The clock stopped 1 hour ago and the time must now be 6.00am. QED",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 74,
+            "question": "Mountains will crumble and temples will fall, and no man can survive its endless call. What is it?",
+            "answer": "Time",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 75,
+            "question": "Who makes it, has no need of it. Who buys it, has no use for it. Who uses it can neither see nor feel it.",
+            "answer": "A Coffin",
+            "hint": "It's used only once and by someone who can't use it again."
+          },
+          {
+            "id": 76,
+            "question": "You use it between your head and your toes, the more it works the thinner it grows. What is it?",
+            "answer": "A Bar of Soap",
+            "hint": "It helps clean you and becomes smaller as you use it."
+          },
+          {
+            "id": 77,
+            "question": "What object has keys that open no locks, space but no room, and you can enter but not go in?",
+            "answer": "A computer keyboard",
+            "hint": "It\u2019s part of a computer but doesn\u2019t open doors."
+          },
+          {
+            "id": 78,
+            "question": "I can be found where anything cannot; dead men eat me all the time, but if a living man eats me, he'll die. What am I?",
+            "answer": "I am nothing",
+            "hint": "It's often feared but is actually the absence of everything."
+          },
+          {
+            "id": 79,
+            "question": "What goes up when the rain comes down?",
+            "answer": "An umbrella",
+            "hint": "You use it when it's raining."
+          },
+          {
+            "id": 80,
+            "question": "How many times can you subtract the number 5 from 25?",
+            "answer": "Once, because after you subtract it's not 25 anymore",
+            "hint": "What number do you subtract from after the first time?"
+          },
+          {
+            "id": 81,
+            "question": "What does man love more than life Fear more than death or mortal strife What the poor have, the rich require, and what contented men desire, What the miser spends and the spendthrift saves And all men carry to their graves?",
+            "answer": "Nothing",
+            "hint": "It's often feared but is actually the absence of everything."
+          },
+          {
+            "id": 82,
+            "question": "What does man love more than life? Fear more than death or mortal strife? What do the poor have, what the rich require, And what contented men desire? What does the miser spend, the spendthrift save, And all men carry to their graves?",
+            "answer": "Nothing",
+            "hint": "It's often feared but is actually the absence of everything."
+          },
+          {
+            "id": 83,
+            "question": "Five hundred begins it, five hundred ends it, Five in the middle is seen; First of all figures, the first of all letters, Take up their stations between. Join all together, and then you will bring Before you the name of an eminent king.",
+            "answer": "David (Roman numerals)",
+            "hint": "Focus on letters, not words or numbers."
+          },
+          {
+            "id": 84,
+            "question": "What has roots that nobody sees, and is taller than trees. Up, up it goes, and yet it never grows. What is it?",
+            "answer": ".A Mountain",
+            "hint": "It's a natural formation, tall and unmoving."
+          },
+          {
+            "id": 85,
+            "question": "If a rooster laid a brown egg and a white egg, what kind of chicks would hatch?",
+            "answer": "Roosters don't lay eggs",
+            "hint": "It can be scrambled, boiled, or hatched."
+          },
+          {
+            "id": 86,
+            "question": "A clock chimes 5 times in 4 seconds. How many times will it chime in 10 seconds?",
+            "answer": "11 times. It chimes at zero and then once every second for 10 seconds",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 87,
+            "question": "What gets wetter the more it dries?",
+            "answer": "A towel",
+            "hint": "It dries things but gets wetter the more it works."
+          },
+          {
+            "id": 88,
+            "question": "What question can someone ask all day long, always get completely different answers, and yet all the answers could be correct?",
+            "answer": "\u201cWhat time is it?\u201c",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 89,
+            "question": "I have four wings, but cannot fly, I never laugh and never cry; On the same spot I'm always found, toiling away with little sound. What am I?",
+            "answer": "Holland. A Windmill",
+            "hint": "It can't be seen but can be felt, and it can move objects."
+          },
+          {
+            "id": 90,
+            "question": "What is more useful when it is broken?",
+            "answer": "It comes from chickens An egg",
+            "hint": "It can be scrambled, boiled, or hatched."
+          },
+          {
+            "id": 91,
+            "question": "I have no voice and yet I speak to you, I tell of all things in the world that people do. I have leaves, but I am not a tree, I have pages, but I am not a bride or royalty. I have a spine and hinges, but I am not a man or a door, I have told you all, I cannot tell you more. What am I?",
+            "answer": "A Book",
+            "hint": "It has pages and tells stories or facts."
+          },
+          {
+            "id": 92,
+            "question": "You heard me before, Yet you hear me again. Then I die, 'Til you call me again What am I?",
+            "answer": "An Echo",
+            "hint": "You can hear it in empty valleys when you shout."
+          },
+          {
+            "id": 93,
+            "question": "What is harder to catch the faster you run?",
+            "answer": "Your breath!",
+            "hint": "You do this constantly, but can't hold it for long."
+          },
+          {
+            "id": 94,
+            "question": "What is it that you ought to keep after you have given it to someone else?",
+            "answer": "A promise",
+            "hint": "It\u2019s something you give with words and must keep."
+          },
+          {
+            "id": 95,
+            "question": "What is the difference between a dollar and a half and thirty five-cents?",
+            "answer": "Nothing. A dollar and a half is the same as thirty five-cents (nickels). But not the same as thirty-five cents",
+            "hint": "It's often feared but is actually the absence of everything."
+          },
+          {
+            "id": 96,
+            "question": "How is it possible to shave three times a day and still grow a beard?",
+            "answer": "If you were a barber, you could shave other men three times a day and still grow your own beard",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 97,
+            "question": "The marathon man timed himself and found out that if he wore a bright white outfit he ran 20 miles in 80 minutes, but when he wore a dark outfit, he ran 20 miles in one hour and twenty minutes. What does this mean for his next race?",
+            "answer": "Absolutely nothing, as 80 minutes equals an hour and twenty minutes",
+            "hint": "It's often feared but is actually the absence of everything."
+          },
+          {
+            "id": 98,
+            "question": "Violet, indigo, blue and green, yellow, orange and red; these are the colors you have seen after the storm has fled.What am I?",
+            "answer": "I am a Rainbow",
+            "hint": "It appears in the sky after rain and is made of colors."
+          },
+          {
+            "id": 99,
+            "question": "What is significant about 3661 seconds past midnight on 1st January 2001?",
+            "answer": "The time and date will be 01:01:01 on 01/01/01",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 100,
+            "question": "Until I am measured, I am not known. Yet how you miss me, When I have flown.  What am I?",
+            "answer": "Time",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 101,
+            "question": "If you go to the movies and you're paying, is it cheaper to take one friend to the movies twice, or two friends to the movies at the same time?",
+            "answer": "It's cheaper to take two friends at the same time. In this case, you would only be buying three tickets, whereas if you take the same friend twice you are buying four tickets",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 102,
+            "question": "What's as big as you are yet doesn't weigh an ounce?",
+            "answer": "Your shadow",
+            "hint": "It follows you but disappears in the dark."
+          },
+          {
+            "id": 103,
+            "question": "Who bought it doesnt need it Who needs it didnt buy it Who ever sees it makes them cry What on earth am i??",
+            "answer": "A coffin",
+            "hint": "It's used only once and by someone who can't use it again."
+          },
+          {
+            "id": 104,
+            "question": "I am always hungry, I must always be fed, The finger I lick Will soon turn red.",
+            "answer": "I am Fire",
+            "hint": "It\u2019s warm, dangerous, and needs fuel."
+          },
+          {
+            "id": 105,
+            "question": "Until I am measured, I am not known. Yet how you miss me, When I have flown.",
+            "answer": "I am Time",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 106,
+            "question": "I am only useful When I am full, Yet I am always Full of holes.",
+            "answer": "I am a Sponge",
+            "hint": "Full of holes but still very absorbent."
+          },
+          {
+            "id": 107,
+            "question": "A tree doubled in height each year until it reached its maximum height over the course of ten years. How many years did it take for the tree to reach half its maximum height?",
+            "answer": "It was 1/2 its Max height in year 9 so.. Nine Years. Because on the 10th year it doubled for the last time and reached the maximun height",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 108,
+            "question": "If a man carried my burden He would break his back. I am not rich, But leave silver in my track.",
+            "answer": "I am a Snail",
+            "hint": "It moves slowly, leaves a trail, and carries a heavy home."
+          },
+          {
+            "id": 109,
+            "question": "What word starting with BR, that with the addition of the letter E, becomes another word that sounds the same as the first?",
+            "answer": "Braking becomes Breaking",
+            "hint": "Focus on letters, not words or numbers."
+          },
+          {
+            "id": 110,
+            "question": "I am weightless, but you can see me. Put me in a bucket, and I'll make it lighter. What am I?",
+            "answer": "A hole",
+            "hint": "It can grow or shrink but isn't a physical object itself."
+          },
+          {
+            "id": 111,
+            "question": "A man takes a barrel that weighs 20 pounds, and then puts something in it. It now weighs less than 20 pounds. What did he put in the barrel?",
+            "answer": "Get a drill He put a hole in the barrel to make it weigh less",
+            "hint": "It can grow or shrink but isn't a physical object itself."
+          },
+          {
+            "id": 112,
+            "question": "The beginning of eternity, the end of time and space; the beginning of every end, and the end of every place. What am I?",
+            "answer": "The letter \u201cE\u201c.  The beginning of Eternity, the end of timE and spacE; the beginning of every End, and the end of every placE",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 113,
+            "question": "Something very extraordinary happened on the 6th of May, 1978 at 12:34 a.m.  What was it?",
+            "answer": "At that moment, the time and day could be written as: 12:34, 5/6/78",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 114,
+            "question": "Pronounced as one letter, And written with three, Two letters there are, And two only in me. I'm double, I'm single, I'm black, blue, and gray, I'm read from both ends, And the same either way. What am I?",
+            "answer": "You have two of them An eye",
+            "hint": "Focus on letters, not words or numbers."
+          },
+          {
+            "id": 115,
+            "question": "The more there is the less you see.  What is it?",
+            "answer": "What time is it .   Darkness",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 116,
+            "question": "All about, but cannot be seen, Can be captured, cannot be held, No throat, but can be heard. What is it?",
+            "answer": "It blows The wind",
+            "hint": "It can't be seen but can be felt, and it can move objects."
+          },
+          {
+            "id": 117,
+            "question": "A man is in a solid metal room. Solid metal floor, ceiling and walls. The ONLY thing in the room is a table. How does he get out?",
+            "answer": "He hits his arm against the wall until it gets saw, he then uses the saw to cut the table in half, he then puts the two pieces of table back together to make a hole, he climbs out the hole and escapes",
+            "hint": "It can grow or shrink but isn't a physical object itself."
+          },
+          {
+            "id": 118,
+            "question": "Joe and Sally where sitting in their family room one night. While Joe was watching T.V, his wife Sally was reading. All of a sudden the power went out and Joe decided to go to bed, but Sally kept on reading. With no use of artificial light, Sally kept on reading. How?",
+            "answer": "Sally was blind, she was reading a book by Braille",
+            "hint": "It has pages and tells stories or facts."
+          },
+          {
+            "id": 119,
+            "question": "I have holes on the top and bottom. I have holes on my left and on my right. And I have holes in the middle, yet I still hold water. What am I?",
+            "answer": "Clean your sink I'm a Sponge",
+            "hint": "Full of holes but still very absorbent."
+          },
+          {
+            "id": 120,
+            "question": "I am the creator, through thick and thin, My time is sunset then I begin. Worlds of men and beasts I make, to me these things are not fake. But Over and over I will kill , I am the tirent and creator but not at will. What am I?",
+            "answer": "A sleeping dreamer",
+            "hint": "You experience them while sleeping."
+          },
+          {
+            "id": 121,
+            "question": "You heard me before, Yet you hear me again, Then I die, 'Till you call me again.",
+            "answer": "Hello...Hello...Hello I am an echo",
+            "hint": "You can hear it in empty valleys when you shout."
+          },
+          {
+            "id": 122,
+            "question": "im a container with the inside golden than cant be opened unless im broken!!!",
+            "answer": "an egg",
+            "hint": "It can be scrambled, boiled, or hatched."
+          },
+          {
+            "id": 123,
+            "question": "The rich need it  The poor have it  If you eat it you will die  Who am I",
+            "answer": "NOTHING",
+            "hint": "It's often feared but is actually the absence of everything."
+          },
+          {
+            "id": 124,
+            "question": "All the electricity was out in town and none of the street lights or traffic signals had power. A dark limousine was cruising down the newly paved blacktop, with its headlights off. A young boy dressed totally in black (with no reflectors) stepped out to cross the street. The moon wasn?t out and the boy had no flashlight, yet the driver stopped to let the boy cross the street. How did the driver see the boy?",
+            "answer": "The driver saw the boy because it was during the daylight hours",
+            "hint": "It flows endlessly and has a mouth."
+          },
+          {
+            "id": 125,
+            "question": "A magician was boasting one day at how long he could hold his breath under water. His record was 6 minutes. A kid that was listening said, \u201cthat's nothing, I can stay under water for 10 minutes using no types of equipment or air pockets!\u201dThe magician told the kid if he could do that, he'd give him $10,000. The kid did it and won the money. Can you figure out how?",
+            "answer": "The kid filled a glass of water and held it over his head for 10 minutes",
+            "hint": "It's transparent and commonly used in windows."
+          },
+          {
+            "id": 126,
+            "question": "No legs have I to dance, No lungs have I to breathe, No life have I to live or die And yet I do all three. What am I?",
+            "answer": "I am Fire",
+            "hint": "It\u2019s warm, dangerous, and needs fuel."
+          },
+          {
+            "id": 127,
+            "question": "The man who made it doesn't want it, The man who bought it doesn't need it, The man who has it can't see it... What is it???",
+            "answer": "A coffin,olbiously!!!",
+            "hint": "It's used only once and by someone who can't use it again."
+          },
+          {
+            "id": 128,
+            "question": "What time is it when the clock strikes 13?",
+            "answer": "Time to get the clock fixed",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 129,
+            "question": "Peter celebrated his birthday on one day, and two days later his older twin brother, Paul, celebrated his birthday. How could this be?",
+            "answer": "When the mother of the twins went into labor, she was travelling by boat. The older twin, Paul, was born first, barely on March 1st. The boat then crossed a time zone, and the younger twin was born on February the 28th. In a leap year the younger twin celebrates his birthday two days before his older brother",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 130,
+            "question": "I can trap many different things and colors, Ever changing, not boring. Look closely and you may find yourself also caught in my trap.  What am I?",
+            "answer": "A mirror, or a pool of water",
+            "hint": "It reflects everything but never speaks."
+          },
+          {
+            "id": 131,
+            "question": "A headless lawyer had a letter to write; It was read by a man who had lost his sight. The dumb repeated it word for word; And deaf was he who listened and heard.",
+            "answer": "The letter in question is the letter \u201cO\u201c. It is zero. The lawyer had nothing to write. The blind could read nothing. The person who was dumb could repeat nothing. The deaf man listened and heard nothing",
+            "hint": "Focus on letters, not words or numbers."
+          },
+          {
+            "id": 132,
+            "question": "Shortly after jumping from an aircraft at 5000 or so feet, a man deploys his parachute. When he looks up he sees a rather large hole in his parachute.  Nonetheless he lands safely without assistance and without using his reserve chute. Why did he survive?",
+            "answer": "Most parachutes need a hole in them to let the air pass through. Otherwise the parachute would swing wildly side to side",
+            "hint": "It can grow or shrink but isn't a physical object itself."
+          },
+          {
+            "id": 133,
+            "question": "Round as a button, Deep as a well. If you want me to talk, You must first pull my tail.  What am I?",
+            "answer": "A bell",
+            "hint": "It rings loudly, often in churches or schools."
+          },
+          {
+            "id": 134,
+            "question": "If a man carried my burden he would break his back. I am not big but leave silver in my tracks. What am I?",
+            "answer": "A snail",
+            "hint": "It moves slowly, leaves a trail, and carries a heavy home."
+          },
+          {
+            "id": 135,
+            "question": "Pronounced as one letter, But look and you'll see, That really I'm written with three. I'm read from both ends, The same either way.  What am I?",
+            "answer": "I am an eye, or an ewe",
+            "hint": "Focus on letters, not words or numbers."
+          },
+          {
+            "id": 136,
+            "question": "It runs and runs but can never flee. It is often watched, yet never sees. When long it brings boredom, When short it brings fear. What is it?",
+            "answer": "Time, which is often watched when you stare at a clock",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 137,
+            "question": "What is once in a minute, twice in a moment, and never in a thousand years?",
+            "answer": "The letter M",
+            "hint": "This is a letter-based riddle. Look closely at the words 'minute,' 'moment,' and 'thousand years.'"
+          },
+          {
+            "id": 138,
+            "question": "Almost everyone sees me without noticing me, For what is beyond is what he or she seeks. What am I?",
+            "answer": "A window",
+            "hint": "It can't be seen but can be felt, and it can move objects."
+          },
+          {
+            "id": 139,
+            "question": "I'm the part of the bird that's not in the sky. I can swim in the ocean and yet remain dry. What am I?",
+            "answer": "A shadow",
+            "hint": "It follows you but disappears in the dark."
+          },
+          {
+            "id": 140,
+            "question": "In marble walls as white as milk, Lined with skin as soft as silk, Within a fountain crystal clear, A golden apple does appear. No doors are there to this stronghold-- Yet thieves break in and steal the gold.",
+            "answer": "an egg",
+            "hint": "It can be scrambled, boiled, or hatched."
+          },
+          {
+            "id": 141,
+            "question": "What can run but never walks, has a mouth but never talks, has a head but never weeps, has a bed but never sleeps?",
+            "answer": "A river lolz!",
+            "hint": "It's a body of water that travels."
+          },
+          {
+            "id": 142,
+            "question": "When I am young I am tall. When I am old I am short.  What can I be?",
+            "answer": "Fire A Candle",
+            "hint": "It\u2019s warm, dangerous, and needs fuel."
+          },
+          {
+            "id": 143,
+            "question": "Walking home one day, you take a short cut along the train tracks. The tracks cross a narrow bridge over a deep gorge. At the point you are 3/8 of the way across the bridge, you hear the train whistle somewhere behind you. You charge across the bridge, and jump off the track as the train is about to run you down. As it happens, if you had gone the other way, you would have reached safety just before being run over as well.  If you can run ten miles per hour, how fast is the train moving?",
+            "answer": "The train is moving at 40 miles per hour. Imagine that a friend is walking with you. When the train whistle blows, you head away from the train, he heads toward it. When he reaches safety, you will be 6/8 (or 3/4)of the way across the bridge, and the train will have just reached the bridge. For the train to cross 4/4 of the bridge in the time you cross the remaining 1/4, the train must be moving four times your speed",
+            "hint": "It keeps moving, and people often wish they had more of it."
+          },
+          {
+            "id": 144,
+            "question": "I have a little house in which I live all alone. It has no doors or windows, and if I want to go out I must break through the wall.",
+            "answer": "A chick in an egg",
+            "hint": "It can be scrambled, boiled, or hatched."
+          },
+          {
+            "id": 145,
+            "question": "John was very tired after a long day of work. He went to bed at 10 p.m., wound his alarm clock and set it for noon the next day. Since John fell asleep almost immediately, how many hours of sleep did he get before the alarm woke him?",
+            "answer": "Two hours. Wind-up clocks can't be set more than 12 hours in advance",
+            "hint": "It can't be seen but can be felt, and it can move objects."
+          },
+          {
+            "id": 146,
+            "question": "Five women each purchase a household item for use in a different room.  1. Mrs. Simpson does not keep her item in the bedroom. 2. Amy has a television; Mrs. Griggs has a hi-fi. 3. Kylie does not keep her item in the bedroom. 4. Clara does not have a telephone. 5. Mrs. Williams does not keep her item in the kitchen. 6. Kylie keeps hers in the conservatory. 7. Michelle has a bookcase; Mrs. Dingle has a computer. 8. Michelle does not keep her in the living room. 9. Mrs. Pringle keeps hers in the study; Roxanne keeps hers in the kitchen.  Can you work out the full name of each woman, her item and where she keeps it?",
+            "answer": "Kylie Dingle - Conservatory - Computer Amy Williams - Bedroom - Television Clara Griggs - Living Room - Hi-Fi Roxanne Simpson - Kitchen - Telephone Michelle Pringle - Study - Bookcase",
+            "hint": "It has pages and tells stories or facts."
+          },
+          {
+            "id": 147,
+            "question": "There were five men going to church and it started to rain. The four that ran got wet and the one that stood still stayed dry.",
+            "answer": "A body in a coffin with the bearers",
+            "hint": "It's used only once and by someone who can't use it again."
+          },
+          {
+            "id": 148,
+            "question": "There are four brothers in this world that were all born together. The first runs and never wearies. The second eats and is never full. The third drinks and is always thirsty. The fourth sings a song that is never good.",
+            "answer": "Water, Fire, Earth, and Wind",
+            "hint": "It can't be seen but can be felt, and it can move objects."
+          },
+          {
+            "id": 149,
+            "question": "What has to be broken before it can be used?",
+            "answer": "An egg",
+            "hint": "It can be scrambled, boiled, or hatched."
+          },
+          {
+            "id": 150,
+            "question": "What has a bed but never sleeps?",
+            "answer": "A river",
+            "hint": "It flows endlessly and has a mouth."
+          },
+          {
+            "id": 151,
+            "question": "What has a mouth but never eats?",
+            "answer": "A river",
+            "hint": "It flows endlessly and has a mouth."
+          },
+          {
+            "id": 152,
+            "question": "What always runs but never walks?",
+            "answer": "A river",
+            "hint": "It flows endlessly and has a mouth."
+          },
+          {
+            "id": 153,
+            "question": "What gets wetter the more it dries?",
+            "answer": "A towel",
+            "hint": "It dries things but gets wetter the more it works."
+          },
+          {
+            "id": 154,
+            "question": "What has a bank but no money?",
+            "answer": "A river",
+            "hint": "It flows endlessly and has a mouth."
+          },
+          {
+            "id": 155,
+            "question": "What has a spine but no bones?",
+            "answer": "A book",
+            "hint": "It has pages and tells stories or facts."
+          },
+          {
+            "id": 156,
+            "question": "What would you find in the middle of nowhere?",
+            "answer": "Nothing",
+            "hint": "It's often feared but is actually the absence of everything."
+          },
+          {
+            "id": 157,
+            "question": "What can you put in a bucket to make it lighter?",
+            "answer": "A hole",
+            "hint": "It can grow or shrink but isn't a physical object itself."
+          },
+          {
+            "id": 158,
+            "question": "I am not alive, but I grow; I don\u2019t have lungs, but I need air; What am I?",
+            "answer": "A fire",
+            "hint": "It\u2019s warm, dangerous, and needs fuel."
+          },
+          {
+            "id": 159,
+            "question": "What can be heard but not seen?",
+            "answer": "An echo",
+            "hint": "You can hear it in empty valleys when you shout."
+          },
+          {
+            "id": 160,
+            "question": "What can you break, even if you never pick it up or touch it?",
+            "answer": "A promise",
+            "hint": "It\u2019s something you give with words and must keep."
+          }
+        ]
+      }
+
+ 
